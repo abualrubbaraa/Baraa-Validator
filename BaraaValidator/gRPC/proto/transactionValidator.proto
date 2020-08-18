@@ -1,0 +1,16 @@
+// Created by: Baraa Abu-Alrub
+// Date of Creation : 18 Augest 2020
+// Date of Modification : 18 Augest 2020
+// Description : Proto file for configuring our gRPC API
+
+syntax="proto3";
+service TransactionValidatorService{
+    rpc validateTransactionFile(transactionFile) returns (isValid) {}
+}
+message transactionFile{
+  string transactionFile = 1;
+}
+message isValid{
+  bool isValid = 1;
+}
+

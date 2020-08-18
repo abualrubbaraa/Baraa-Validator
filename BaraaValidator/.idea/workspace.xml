@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="393fc0df-d13f-4b3d-b647-dfba7480bad6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="8cb6efcf-f2ca-4df5-92ca-371ffe2e4b41" />
+  <component name="ProjectId" id="1gDXA7UGQi2tNTEBn37oawbFz7B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="393fc0df-d13f-4b3d-b647-dfba7480bad6" name="Default Changelist" comment="" />
+      <created>1597649990779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597649990779</updated>
+      <workItem from="1597649991882" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1597650025020">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1597650025020" />
+  </component>
+</project>
